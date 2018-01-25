@@ -1,0 +1,15 @@
+C:\SysComercio\SysComercio\SysComercio\bin\Debug\SysComercio.exe.config
+C:\SysComercio\SysComercio\SysComercio\bin\Debug\SysComercio.exe
+C:\SysComercio\SysComercio\SysComercio\bin\Debug\SysComercio.pdb
+C:\SysComercio\SysComercio\SysComercio\bin\Debug\CamadaApresentacao.dll
+C:\SysComercio\SysComercio\SysComercio\bin\Debug\CamadaNegocio.dll
+C:\SysComercio\SysComercio\SysComercio\bin\Debug\CamadaDados.dll
+C:\SysComercio\SysComercio\SysComercio\bin\Debug\CamadaApresentacao.pdb
+C:\SysComercio\SysComercio\SysComercio\bin\Debug\CamadaNegocio.pdb
+C:\SysComercio\SysComercio\SysComercio\bin\Debug\CamadaDados.pdb
+C:\SysComercio\SysComercio\SysComercio\obj\Debug\SysComercio.csprojResolveAssemblyReference.cache
+C:\SysComercio\SysComercio\SysComercio\obj\Debug\SysComercio.Properties.Resources.resources
+C:\SysComercio\SysComercio\SysComercio\obj\Debug\SysComercio.csproj.GenerateResource.Cache
+C:\SysComercio\SysComercio\SysComercio\obj\Debug\SysComercio.csproj.CoreCompileInputs.cache
+C:\SysComercio\SysComercio\SysComercio\obj\Debug\SysComercio.exe
+C:\SysComercio\SysComercio\SysComercio\obj\Debug\SysComercio.pdb
